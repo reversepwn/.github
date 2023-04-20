@@ -4,7 +4,7 @@ We are a group that specializes in **ethical** hacking
 ## Members
 
 Current Members
-- @KevinAlavik - puffer (Owner)
+- [@KevinAlavik](https://github.com/kevinalavik) / [@pufferisadev](https://twitter.com/pufferisadev) (Owner)
 
 ## Projects
 
