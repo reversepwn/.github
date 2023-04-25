@@ -1,5 +1,5 @@
 # we are reversepwn
-We are a group that specializes in **ethical** hacking
+We are a group.
 
 ## Members
 
@@ -10,4 +10,4 @@ Current Members
 
 
 ## Can i join
-atm **no**
+atm **maybe**
